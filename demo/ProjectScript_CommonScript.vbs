@@ -1,8 +1,4 @@
-Dim STPass
-Dim STFail
-Dim STNA
-Dim STNC
-Dim STNR
+Dim STPass, STFail, STNA, STNC, STNR
 
 Function ActionCanExecute(ActionName)
   'Use ActiveModule and ActiveDialogName to get
